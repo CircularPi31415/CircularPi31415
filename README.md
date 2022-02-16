@@ -1,0 +1,3 @@
+- Hi! I'm CircularPi31415
+- I'm currently learning HTML5
+- I like playing chess
