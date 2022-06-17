@@ -1,3 +1,6 @@
-- Hi! I'm CircularPi31415
-- I'm currently learning HTML5
-- I like playing chess
+- Hi! I'm CircularPi!
+- I am 13 years old
+- I use he/him pronouns
+- I know a tiny bit of HTML
+- I know more about hardware rather than software
+- I like playing Minecraft, mindlessly scrolling through twitter, and making random shit on pc part picker
